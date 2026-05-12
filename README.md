@@ -1,7 +1,6 @@
 # ShowTime / BookMyShow Competitor
 
 This repository captures the Part A foundation for a high-stakes ticketing system: the database schema, concurrency strategy, cache layer, and async order flow.
-
 ## Constraints
 
 ### 1. 5 lakh users at noon
